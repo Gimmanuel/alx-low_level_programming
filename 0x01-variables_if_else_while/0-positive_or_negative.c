@@ -3,9 +3,10 @@
 #include <stdio.h>
 
 /**
- * main - print random number
+ * main - prints a random number and startes whether
+ *	it is positive,negative, or zero
  *
- * Return: (0);
+ * Return: 0;
  */
 int main(void)
 {
