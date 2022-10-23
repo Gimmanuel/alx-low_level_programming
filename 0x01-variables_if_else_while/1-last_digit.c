@@ -21,9 +21,7 @@ int main(void)
 		printf("and is greater than 5");
 	}
 	if (x == 0)
-	{
 	if (x < 6 && x != 0)
-	}
 	printf("\n");
 
 	return (0);
